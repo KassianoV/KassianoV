@@ -2,7 +2,7 @@
 </h2>
 
 <p>
-  <img align= 'right' height="80" src=   />
+  <img align= 'right' height="80" src= "https://github.com/KassianoV/KassianoV/blob/2f101df415d8350c0198f24052662e8c4b5ffbf8/image/Caricatura.png" />
     <li align= 'left'>Tenho 22 anos </li>
     <li align= 'left'>Sou estudante universitário</li>
     <li align= 'left'>Estou aprendendo Python e Automação </li>
