@@ -2,11 +2,7 @@
 </h2>
 
 <p>
-<<<<<<< HEAD
   <img align= 'right' height="80" src= "https://github.com/KassianoV/KassianoV/blob/2f101df415d8350c0198f24052662e8c4b5ffbf8/image/Caricatura.png" />
-=======
-  <img align= 'right' height="80" src= "https://github.com/KassianoV/KassianoV/blob/main/image/Caricatura.png" />
->>>>>>> da565d81e1e28e242e84df54b5ebe6149b8584f5
     <li align= 'left'>Tenho 22 anos </li>
     <li align= 'left'>Sou estudante universitário</li>
     <li align= 'left'>Estou aprendendo Python e Automação </li>
