@@ -9,7 +9,7 @@
 </p><br/>
 
 <p align= 'center' >
-<a href="https://www.linkedin.com/in/kassiano-vieira-018b7b196" />
+<a href="https://www.linkedin.com/in/kassianovieira/" />
     <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href= "https://t.me/Kassian0" />
