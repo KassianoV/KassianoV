@@ -31,7 +31,8 @@ inline_block"><br>
   <img align="center" alt="Ka-VScode" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Ka-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Ka-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-   <img align="center" alt="Ka-Docker" height="30" width="40" src="">
+   <img align="center" alt="Ka-Docker" height="30" width="40" src="![image](https://github.com/user-attachments/assets/f4296d13-e497-4632-8cb9-07be07c94f8e)
+">
   <br/><br/>
   Edição Grafica:<br/>
   <img align="center" alt="Ka-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
