@@ -15,7 +15,7 @@
     <a href= "https://t.me/Kassiano_V"/>
     <img src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
-    <a href= "kassianovieira@id.uff.br" />
+    <a href= "kassianovm@gmail.com" />
     <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </p><br/>
     
@@ -31,7 +31,7 @@ inline_block"><br>
   <img align="center" alt="Ka-VScode" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Ka-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Ka-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-   <img align="center" alt="Ka-Docker" height="30" width="40" src="![image](https://github.com/user-attachments/assets/f4296d13-e497-4632-8cb9-07be07c94f8e)
+   <img align="center" alt="Ka-Docker" height="30" width="40" src="https://github.com/user-attachments/assets/85f4f211-6c8b-4242-80a7-92879184d416)
 ">
   <br/><br/>
   Edição Grafica:<br/>
