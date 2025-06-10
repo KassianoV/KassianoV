@@ -31,7 +31,7 @@ inline_block"><br>
   <img align="center" alt="Ka-VScode" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Ka-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Ka-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-   <img align="center" alt="Ka-Docker" height="30" width="40" src="https://www.google.com.br/imgres?q=docker%20desktop&imgurl=https%3A%2F%2Fimages-eds-ssl.xboxlive.com%2Fimage%3Furl%3D4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxvHMT0riO5Ze2r4kAINc_2Q235.WExoEeNKVwotRPKiuUJ_zJV1EviwJKahfVAHrU33f0c0S0u3rD9caUlPBH.k-%26format%3Dsource&imgrefurl=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2Fxp8cbj40xlbwkx%3Fhl%3Den-US%26gl%3DUS&docid=w2RwUO9dtqzrxM&tbnid=ixlHiOjrcX1UBM&vet=12ahUKEwjNyJza8-aNAxXGDjQIHfXBAD8QM3oECB4QAA..i&w=1080&h=1080&hcb=2&ved=2ahUKEwjNyJza8-aNAxXGDjQIHfXBAD8QM3oECB4QAA">
+   <img align="center" alt="Ka-Docker" height="30" width="40" src="">
   <br/><br/>
   Edição Grafica:<br/>
   <img align="center" alt="Ka-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
