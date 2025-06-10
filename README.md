@@ -3,9 +3,9 @@
 
 <p>
   <img align= 'right' height="80" src= "https://github.com/KassianoV/KassianoV/blob/2f101df415d8350c0198f24052662e8c4b5ffbf8/image/Caricatura.png" />
-    <li align= 'left'>Tenho 25 anos </li>
+    <li align= 'left'>Tenho 26 anos </li>
     <li align= 'left'>Sou estudante universitário</li>
-    <li align= 'left'>Estou aprendendo Python e Automação </li>
+    <li align= 'left'>Estou Trabalhando no Grupo Spezi </li>
 </p><br/>
 
 <p align= 'center' >
