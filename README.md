@@ -1,14 +1,16 @@
 <h1 align="center">Kassiano Vieira</h1>
 
 <p align="center">
+  <img align="right" height="90" src="image/Caricatura.png" />
+</p>
+
+<p align="left">
   <strong>Front-end Developer · Angular & TypeScript · Design Systems</strong><br/>
   Analista Júnior @ Grupo Spezi · Rio de Janeiro, RJ<br/>
   Graduando em Ciência da Computação — UFF · PSM I (Scrum.org)
 </p>
 
-<p align="center">
-  <img align="right" height="90" src="image/Caricatura.png" />
-</p>
+
 
 - Desenvolvendo um **Design System governamental** com Angular, TypeScript e Storybook no Grupo Spezi
 - Bolsista por 3+ anos em projetos de extensão levando programação e robótica a escolas públicas
